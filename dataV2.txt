@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"In the rapidly evolving landscape of competitive online gaming, precision, communication, and strategy play pivotal roles in determining victory","photo":"https://iili.io/HDbkfLu.webp"},
+  {"title":"title2 ser","desc":"STANDOFF 2, a popular first-person shooter, has captured the hearts of gamers worldwide with its intense gameplay and strategic elements","photo":"https://iili.io/HDbkKXe.webp"},
+  {"title":"title3 ser","desc":"Taking this competitive experience to the next level is the STANDOFF 2 SOFT Assistant, an innovative tool designed to empower players with real-time insights and tactical guidance","photo":"https://iili.io/HDDSzSR.webp"},
+  {"title":"title4 ser","desc":" In this descriptive document, we explore the features and benefits of the STANDOFF 2 SOFT Assistant, shedding light on its impact on the gaming community.","photo":"https://iili.io/HDbkBqb.webp"},
+  {"title":"title5 ser","desc":"The STANDOFF 2 SOFT Assistant serves as an invaluable virtual companion for players, offering real-time tactical insights during matches","photo":"https://iili.io/HDbkC1j.webp"},
+  {"title":"title6 ser","desc":"By analyzing ongoing gameplay, it provides suggestions on optimal strategies","photo":"https://iili.io/HDDhbNs.webp"},
+  {"title":"title7 ser","desc":"weapon choices, and movement patterns, elevating players' decision-making process to a higher level.","photo":"https://iili.io/HDbknrx.webp"},
+  {"title":"title8 ser","desc":"Every gamer has a unique playstyle. The SOFT Assistant recognizes this diversity by allowing users to customize its suggestions based on their preferred gameplay approach","photo":"https://iili.io/HDDSRtt.webp"}
    ]
  
 }
